@@ -4,7 +4,6 @@ pragma solidity >=0.7.0 <0.9.0;
 
 /**
  * @title Coin Flip
- * @dev Anshuman(+91-8287407339)
  */
 
 contract CoinFlip {
